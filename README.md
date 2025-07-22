@@ -1,4 +1,4 @@
-# Samantha Viewer
+# Samantha Viewer (Public Release)
 
 This project provides a web-based viewer for the Samantha VRM model, integrated with an AI chat powered by OpenWebUI and Pollinations.ai.
 
